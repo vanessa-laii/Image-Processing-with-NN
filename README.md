@@ -12,7 +12,7 @@ Short, practical project showcasing two computer vision tasks on the SVHN datase
 - Training, evaluation, and metric plotting (loss/accuracy)
 
 ## Project Structure
-- `F24_4ML3_Assignment_4.ipynb`: Main notebook with end‑to‑end workflows
+- `main.ipynb`: Main notebook with end‑to‑end workflows
 - `data/`: Auto‑downloaded SVHN dataset (handled by `torchvision`)
 
 
